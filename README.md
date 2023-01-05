@@ -7,4 +7,5 @@ RN2: Permitir que um usário (após logado), realize operações bancárias de:
 - Saque;
 - Depósito;
 - Transferência bancária. 
+
 Erros: Apresentar mensagens de erros sempre que o usuário solicitar operações inválidas. Essas mensagens devem ser coerentes para o usuário. 
