@@ -1,0 +1,8 @@
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\Projeto ByteBank - SharpCoders\projetoByteBank-sharpCoders\ProjetoByteBank-SharpCoders\bin\Debug\ProjetoByteBank-SharpCoders.exe.config
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\Projeto ByteBank - SharpCoders\projetoByteBank-sharpCoders\ProjetoByteBank-SharpCoders\bin\Debug\ProjetoByteBank-SharpCoders.exe
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\Projeto ByteBank - SharpCoders\projetoByteBank-sharpCoders\ProjetoByteBank-SharpCoders\bin\Debug\ProjetoByteBank-SharpCoders.pdb
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\Projeto ByteBank - SharpCoders\projetoByteBank-sharpCoders\ProjetoByteBank-SharpCoders\obj\Debug\ProjetoByteBank-SharpCoders.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\Projeto ByteBank - SharpCoders\projetoByteBank-sharpCoders\ProjetoByteBank-SharpCoders\obj\Debug\ProjetoByteBank-SharpCoders.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\Projeto ByteBank - SharpCoders\projetoByteBank-sharpCoders\ProjetoByteBank-SharpCoders\obj\Debug\ProjetoByteBank-SharpCoders.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\Projeto ByteBank - SharpCoders\projetoByteBank-sharpCoders\ProjetoByteBank-SharpCoders\obj\Debug\ProjetoByteBank-SharpCoders.exe
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\Projeto ByteBank - SharpCoders\projetoByteBank-sharpCoders\ProjetoByteBank-SharpCoders\obj\Debug\ProjetoByteBank-SharpCoders.pdb
