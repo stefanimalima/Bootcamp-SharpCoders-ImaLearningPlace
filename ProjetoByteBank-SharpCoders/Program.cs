@@ -151,7 +151,7 @@ namespace ByteBank1
 
             saldos[index] += valor;
             Console.WriteLine("Deposito realizado com sucesso!");
-            Console.WriteLine($"Saldo atual: {saldos[index]}");
+            Console.WriteLine($"Saldo atual: {saldos[index]:C2}");
 
         }
 
@@ -170,7 +170,7 @@ namespace ByteBank1
             {
                 saldos[index] -= valor;
                 Console.WriteLine("Saque realizado com sucesso!");
-                Console.WriteLine($"Saldo atual: {saldos[index]}");
+                Console.WriteLine($"Saldo atual: {saldos[index]:C2}");
             }
         }
 
@@ -202,7 +202,7 @@ namespace ByteBank1
             cpfs.Add(Console.ReadLine());
             Console.Write("Nome completo: ");
             titulares.Add(Console.ReadLine());
-            Console.Write("Escolha uma senha de 4 digitos: ");
+            Console.Write("Escolha uma senha: ");
             senhas.Add(Console.ReadLine());
             saldos.Add(0);
             Console.WriteLine("Cliente cadastrado (a) com sucesso!");
@@ -254,13 +254,13 @@ namespace ByteBank1
 
         static void ApresentarValorAcumulado(List<double> saldos)
         {
-            Console.WriteLine($"Total acumulado no banco: {saldos.Sum():F2}");
+            Console.WriteLine($"Total acumulado no banco: {saldos.Sum():C2}");
             
         }
 
         static void MostrarConta(int index, List<string> cpfs, List<string> titulares, List<double> saldos)
         {
-            Console.WriteLine($"CPF = {cpfs[index]} | Titular = {titulares[index]} | Saldo = R${saldos[index]:F2}");
+            Console.WriteLine($"CPF = {cpfs[index]} | Titular = {titulares[index]} | Saldo = R${saldos[index]:C2}");
         }
     }
 }
